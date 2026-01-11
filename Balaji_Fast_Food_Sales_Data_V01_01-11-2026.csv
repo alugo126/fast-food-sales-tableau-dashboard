@@ -1,0 +1,1001 @@
+order_id,date,item_name,item_type, item_price ,quantity, transaction_amount ,transaction_type,time_of_sale
+982,3/30/2023,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Cash,Night
+97,3/29/2023,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Online,Evening
+548,3/29/2023,Cold coffee,Beverages,$40.00 ,14,$560.00 ,Cash,Afternoon
+432,3/27/2023,Panipuri,Fastfood,$20.00 ,6,$120.00 ,Online,Afternoon
+532,3/27/2023,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Online,Midnight
+590,3/27/2023,Panipuri,Fastfood,$20.00 ,15,$300.00 ,Online,Midnight
+775,3/27/2023,Sandwich,Fastfood,$60.00 ,6,$360.00 ,Cash,Night
+101,3/26/2023,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Online,Morning
+221,3/26/2023,Sandwich,Fastfood,$60.00 ,1,$60.00 ,Online,Evening
+252,3/26/2023,Vadapav,Fastfood,$20.00 ,8,$160.00 ,Online,Midnight
+156,3/25/2023,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Cash,Midnight
+702,3/25/2023,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Cash,Afternoon
+787,3/25/2023,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Cash,Afternoon
+421,3/24/2023,Cold coffee,Beverages,$40.00 ,2,$80.00 ,Online,Midnight
+217,3/23/2023,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Cash,Morning
+224,3/23/2023,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Cash,Afternoon
+576,3/23/2023,Panipuri,Fastfood,$20.00 ,12,$240.00 ,Cash,Afternoon
+91,3/22/2023,Cold coffee,Beverages,$40.00 ,6,$240.00 ,Unknown,Evening
+302,3/21/2023,Aalopuri,Fastfood,$20.00 ,14,$280.00 ,Cash,Night
+484,3/21/2023,Cold coffee,Beverages,$40.00 ,5,$200.00 ,Cash,Afternoon
+772,3/20/2023,Cold coffee,Beverages,$40.00 ,9,$360.00 ,Cash,Evening
+137,3/19/2023,Sugarcane juice,Beverages,$25.00 ,6,$150.00 ,Unknown,Afternoon
+148,3/19/2023,Sandwich,Fastfood,$60.00 ,13,$780.00 ,Online,Evening
+341,3/19/2023,Frankie,Fastfood,$50.00 ,9,$450.00 ,Cash,Evening
+402,3/19/2023,Frankie,Fastfood,$50.00 ,7,$350.00 ,Cash,Night
+894,3/19/2023,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Cash,Morning
+966,3/19/2023,Panipuri,Fastfood,$20.00 ,11,$220.00 ,Online,Morning
+996,3/19/2023,Frankie,Fastfood,$50.00 ,10,$500.00 ,Unknown,Evening
+320,3/18/2023,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Cash,Afternoon
+669,3/18/2023,Sandwich,Fastfood,$60.00 ,11,$660.00 ,Online,Evening
+387,3/17/2023,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Cash,Midnight
+983,3/17/2023,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Unknown,Night
+52,3/16/2023,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Cash,Midnight
+225,3/16/2023,Frankie,Fastfood,$50.00 ,11,$550.00 ,Cash,Evening
+256,3/16/2023,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Online,Midnight
+431,3/16/2023,Panipuri,Fastfood,$20.00 ,6,$120.00 ,Online,Evening
+186,3/15/2023,Frankie,Fastfood,$50.00 ,2,$100.00 ,Online,Afternoon
+355,3/15/2023,Cold coffee,Beverages,$40.00 ,4,$160.00 ,Online,Midnight
+451,3/15/2023,Sugarcane juice,Beverages,$25.00 ,10,$250.00 ,Cash,Midnight
+708,3/15/2023,Sandwich,Fastfood,$60.00 ,5,$300.00 ,Cash,Midnight
+710,3/15/2023,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Unknown,Night
+774,3/15/2023,Vadapav,Fastfood,$20.00 ,1,$20.00 ,Online,Night
+103,3/14/2023,Cold coffee,Beverages,$40.00 ,8,$320.00 ,Online,Midnight
+961,3/14/2023,Frankie,Fastfood,$50.00 ,13,$650.00 ,Cash,Night
+102,3/13/2023,Cold coffee,Beverages,$40.00 ,14,$560.00 ,Cash,Morning
+786,3/13/2023,Sandwich,Fastfood,$60.00 ,14,$840.00 ,Online,Night
+904,3/12/2023,Aalopuri,Fastfood,$20.00 ,4,$80.00 ,Cash,Midnight
+342,3/11/2023,Vadapav,Fastfood,$20.00 ,7,$140.00 ,Online,Afternoon
+972,3/11/2023,Aalopuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Afternoon
+317,3/10/2023,Aalopuri,Fastfood,$20.00 ,12,$240.00 ,Online,Afternoon
+862,3/10/2023,Frankie,Fastfood,$50.00 ,7,$350.00 ,Online,Night
+72,3/9/2023,Frankie,Fastfood,$50.00 ,13,$650.00 ,Online,Afternoon
+86,3/9/2023,Aalopuri,Fastfood,$20.00 ,15,$300.00 ,Cash,Morning
+117,3/9/2023,Frankie,Fastfood,$50.00 ,7,$350.00 ,Online,Evening
+412,3/9/2023,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Unknown,Afternoon
+554,3/9/2023,Panipuri,Fastfood,$20.00 ,4,$80.00 ,Cash,Afternoon
+731,3/9/2023,Frankie,Fastfood,$50.00 ,10,$500.00 ,Cash,Afternoon
+38,3/8/2023,Panipuri,Fastfood,$20.00 ,12,$240.00 ,Online,Night
+624,3/8/2023,Sandwich,Fastfood,$60.00 ,9,$540.00 ,Cash,Morning
+216,3/7/2023,Panipuri,Fastfood,$20.00 ,9,$180.00 ,Cash,Afternoon
+454,3/7/2023,Sandwich,Fastfood,$60.00 ,1,$60.00 ,Online,Evening
+908,3/6/2023,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Cash,Night
+262,3/5/2023,Vadapav,Fastfood,$20.00 ,5,$100.00 ,Unknown,Evening
+267,3/5/2023,Vadapav,Fastfood,$20.00 ,1,$20.00 ,Cash,Morning
+305,3/5/2023,Panipuri,Fastfood,$20.00 ,4,$80.00 ,Unknown,Morning
+585,3/5/2023,Vadapav,Fastfood,$20.00 ,11,$220.00 ,Cash,Morning
+400,3/4/2023,Cold coffee,Beverages,$40.00 ,15,$600.00 ,Cash,Morning
+654,3/4/2023,Vadapav,Fastfood,$20.00 ,9,$180.00 ,Cash,Morning
+84,3/3/2023,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Midnight
+179,3/3/2023,Sugarcane juice,Beverages,$25.00 ,5,$125.00 ,Unknown,Midnight
+306,3/3/2023,Cold coffee,Beverages,$40.00 ,8,$320.00 ,Online,Morning
+890,3/3/2023,Sugarcane juice,Beverages,$25.00 ,5,$125.00 ,Cash,Morning
+171,3/2/2023,Vadapav,Fastfood,$20.00 ,11,$220.00 ,Cash,Midnight
+325,3/2/2023,Aalopuri,Fastfood,$20.00 ,12,$240.00 ,Unknown,Afternoon
+811,3/2/2023,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Afternoon
+898,3/2/2023,Frankie,Fastfood,$50.00 ,8,$400.00 ,Cash,Afternoon
+455,3/1/2023,Cold coffee,Beverages,$40.00 ,11,$440.00 ,Cash,Midnight
+536,3/1/2023,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Cash,Evening
+738,3/1/2023,Sandwich,Fastfood,$60.00 ,4,$240.00 ,Online,Morning
+884,3/1/2023,Vadapav,Fastfood,$20.00 ,12,$240.00 ,Online,Night
+914,3/1/2023,Sandwich,Fastfood,$60.00 ,14,$840.00 ,Cash,Night
+608,2/28/2023,Aalopuri,Fastfood,$20.00 ,1,$20.00 ,Online,Midnight
+818,2/28/2023,Frankie,Fastfood,$50.00 ,6,$300.00 ,Cash,Night
+314,2/27/2023,Frankie,Fastfood,$50.00 ,8,$400.00 ,Online,Morning
+556,2/27/2023,Vadapav,Fastfood,$20.00 ,9,$180.00 ,Cash,Night
+926,2/27/2023,Frankie,Fastfood,$50.00 ,15,$750.00 ,Cash,Afternoon
+139,2/26/2023,Frankie,Fastfood,$50.00 ,11,$550.00 ,Online,Night
+381,2/26/2023,Vadapav,Fastfood,$20.00 ,1,$20.00 ,Online,Morning
+485,2/26/2023,Aalopuri,Fastfood,$20.00 ,6,$120.00 ,Cash,Midnight
+767,2/26/2023,Frankie,Fastfood,$50.00 ,8,$400.00 ,Cash,Afternoon
+106,2/25/2023,Frankie,Fastfood,$50.00 ,9,$450.00 ,Cash,Evening
+792,2/25/2023,Vadapav,Fastfood,$20.00 ,2,$40.00 ,Cash,Morning
+112,2/24/2023,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Cash,Morning
+157,2/24/2023,Frankie,Fastfood,$50.00 ,7,$350.00 ,Online,Midnight
+475,2/24/2023,Cold coffee,Beverages,$40.00 ,6,$240.00 ,Cash,Night
+820,2/24/2023,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Unknown,Midnight
+48,2/23/2023,Sandwich,Fastfood,$60.00 ,14,$840.00 ,Online,Afternoon
+167,2/23/2023,Cold coffee,Beverages,$40.00 ,6,$240.00 ,Cash,Morning
+696,2/23/2023,Sugarcane juice,Beverages,$25.00 ,3,$75.00 ,Online,Evening
+595,2/22/2023,Frankie,Fastfood,$50.00 ,9,$450.00 ,Online,Afternoon
+709,2/22/2023,Cold coffee,Beverages,$40.00 ,6,$240.00 ,Cash,Morning
+770,2/22/2023,Aalopuri,Fastfood,$20.00 ,8,$160.00 ,Cash,Morning
+909,2/21/2023,Cold coffee,Beverages,$40.00 ,12,$480.00 ,Online,Morning
+946,2/21/2023,Sandwich,Fastfood,$60.00 ,8,$480.00 ,Cash,Midnight
+207,2/20/2023,Cold coffee,Beverages,$40.00 ,8,$320.00 ,Online,Evening
+315,2/20/2023,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Online,Afternoon
+939,2/19/2023,Vadapav,Fastfood,$20.00 ,15,$300.00 ,Online,Midnight
+840,2/18/2023,Cold coffee,Beverages,$40.00 ,15,$600.00 ,Unknown,Midnight
+332,2/17/2023,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Unknown,Afternoon
+853,2/17/2023,Cold coffee,Beverages,$40.00 ,3,$120.00 ,Online,Midnight
+935,2/17/2023,Sandwich,Fastfood,$60.00 ,12,$720.00 ,Cash,Midnight
+339,2/16/2023,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Unknown,Midnight
+593,2/16/2023,Sugarcane juice,Beverages,$25.00 ,9,$225.00 ,Cash,Evening
+723,2/16/2023,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Online,Evening
+379,2/15/2023,Cold coffee,Beverages,$40.00 ,14,$560.00 ,Unknown,Afternoon
+662,2/15/2023,Panipuri,Fastfood,$20.00 ,3,$60.00 ,Online,Afternoon
+913,2/15/2023,Frankie,Fastfood,$50.00 ,15,$750.00 ,Online,Evening
+486,2/14/2023,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Cash,Midnight
+764,2/14/2023,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Cash,Night
+170,2/13/2023,Aalopuri,Fastfood,$20.00 ,6,$120.00 ,Unknown,Afternoon
+307,2/13/2023,Vadapav,Fastfood,$20.00 ,8,$160.00 ,Cash,Evening
+471,2/13/2023,Panipuri,Fastfood,$20.00 ,7,$140.00 ,Cash,Afternoon
+477,2/13/2023,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Cash,Midnight
+479,2/13/2023,Sandwich,Fastfood,$60.00 ,11,$660.00 ,Cash,Afternoon
+621,2/13/2023,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Online,Evening
+823,2/13/2023,Panipuri,Fastfood,$20.00 ,11,$220.00 ,Online,Midnight
+505,2/12/2023,Frankie,Fastfood,$50.00 ,4,$200.00 ,Cash,Night
+24,2/11/2023,Sugarcane juice,Beverages,$25.00 ,10,$250.00 ,Online,Afternoon
+29,2/10/2023,Sugarcane juice,Beverages,$25.00 ,9,$225.00 ,Online,Afternoon
+941,2/10/2023,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Online,Morning
+641,2/9/2023,Vadapav,Fastfood,$20.00 ,15,$300.00 ,Cash,Afternoon
+189,2/8/2023,Vadapav,Fastfood,$20.00 ,12,$240.00 ,Online,Afternoon
+321,2/8/2023,Frankie,Fastfood,$50.00 ,12,$600.00 ,Cash,Evening
+957,2/8/2023,Panipuri,Fastfood,$20.00 ,3,$60.00 ,Online,Midnight
+107,2/7/2023,Sandwich,Fastfood,$60.00 ,4,$240.00 ,Online,Afternoon
+155,2/7/2023,Sugarcane juice,Beverages,$25.00 ,10,$250.00 ,Cash,Evening
+609,2/7/2023,Aalopuri,Fastfood,$20.00 ,14,$280.00 ,Unknown,Midnight
+776,2/7/2023,Frankie,Fastfood,$50.00 ,10,$500.00 ,Cash,Midnight
+940,2/7/2023,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Online,Midnight
+296,2/6/2023,Panipuri,Fastfood,$20.00 ,7,$140.00 ,Cash,Afternoon
+612,2/6/2023,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Online,Midnight
+635,2/6/2023,Vadapav,Fastfood,$20.00 ,15,$300.00 ,Online,Night
+33,2/5/2023,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Online,Night
+40,2/5/2023,Sandwich,Fastfood,$60.00 ,5,$300.00 ,Online,Night
+193,2/5/2023,Cold coffee,Beverages,$40.00 ,15,$600.00 ,Online,Midnight
+268,2/5/2023,Cold coffee,Beverages,$40.00 ,12,$480.00 ,Cash,Midnight
+533,2/5/2023,Frankie,Fastfood,$50.00 ,2,$100.00 ,Unknown,Night
+663,2/5/2023,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Online,Night
+706,2/5/2023,Frankie,Fastfood,$50.00 ,8,$400.00 ,Online,Night
+34,2/4/2023,Frankie,Fastfood,$50.00 ,12,$600.00 ,Online,Evening
+77,2/4/2023,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Cash,Midnight
+275,2/4/2023,Vadapav,Fastfood,$20.00 ,15,$300.00 ,Online,Night
+4,2/3/2023,Sugarcane juice,Beverages,$25.00 ,6,$150.00 ,Online,Night
+15,2/3/2023,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Cash,Evening
+58,2/3/2023,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Online,Morning
+489,2/3/2023,Frankie,Fastfood,$50.00 ,13,$650.00 ,Online,Evening
+644,2/3/2023,Panipuri,Fastfood,$20.00 ,5,$100.00 ,Online,Evening
+733,2/3/2023,Frankie,Fastfood,$50.00 ,10,$500.00 ,Cash,Evening
+841,2/3/2023,Vadapav,Fastfood,$20.00 ,9,$180.00 ,Cash,Night
+75,2/2/2023,Cold coffee,Beverages,$40.00 ,6,$240.00 ,Online,Afternoon
+476,2/2/2023,Aalopuri,Fastfood,$20.00 ,10,$200.00 ,Cash,Morning
+199,2/1/2023,Frankie,Fastfood,$50.00 ,6,$300.00 ,Online,Morning
+626,2/1/2023,Cold coffee,Beverages,$40.00 ,15,$600.00 ,Cash,Night
+750,2/1/2023,Frankie,Fastfood,$50.00 ,1,$50.00 ,Online,Evening
+346,1/31/2023,Cold coffee,Beverages,$40.00 ,12,$480.00 ,Cash,Morning
+395,1/31/2023,Sandwich,Fastfood,$60.00 ,3,$180.00 ,Cash,Evening
+482,1/31/2023,Aalopuri,Fastfood,$20.00 ,1,$20.00 ,Online,Afternoon
+954,1/31/2023,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Cash,Midnight
+150,1/30/2023,Cold coffee,Beverages,$40.00 ,14,$560.00 ,Cash,Afternoon
+420,1/30/2023,Frankie,Fastfood,$50.00 ,13,$650.00 ,Online,Evening
+284,1/29/2023,Frankie,Fastfood,$50.00 ,7,$350.00 ,Unknown,Afternoon
+30,1/28/2023,Frankie,Fastfood,$50.00 ,2,$100.00 ,Cash,Night
+301,1/28/2023,Panipuri,Fastfood,$20.00 ,7,$140.00 ,Cash,Night
+851,1/28/2023,Aalopuri,Fastfood,$20.00 ,15,$300.00 ,Online,Night
+974,1/28/2023,Vadapav,Fastfood,$20.00 ,13,$260.00 ,Online,Afternoon
+291,1/27/2023,Frankie,Fastfood,$50.00 ,8,$400.00 ,Online,Night
+521,1/27/2023,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Online,Morning
+955,1/27/2023,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Online,Afternoon
+639,1/26/2023,Vadapav,Fastfood,$20.00 ,14,$280.00 ,Cash,Morning
+867,1/26/2023,Frankie,Fastfood,$50.00 ,15,$750.00 ,Cash,Midnight
+998,1/26/2023,Sandwich,Fastfood,$60.00 ,13,$780.00 ,Unknown,Evening
+105,1/25/2023,Panipuri,Fastfood,$20.00 ,8,$160.00 ,Cash,Evening
+497,1/25/2023,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Cash,Midnight
+537,1/25/2023,Panipuri,Fastfood,$20.00 ,3,$60.00 ,Cash,Evening
+666,1/25/2023,Panipuri,Fastfood,$20.00 ,9,$180.00 ,Cash,Evening
+861,1/24/2023,Sugarcane juice,Beverages,$25.00 ,8,$200.00 ,Cash,Night
+899,1/24/2023,Aalopuri,Fastfood,$20.00 ,7,$140.00 ,Cash,Midnight
+802,1/23/2023,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Online,Afternoon
+865,1/23/2023,Sugarcane juice,Beverages,$25.00 ,6,$150.00 ,Cash,Night
+981,1/22/2023,Panipuri,Fastfood,$20.00 ,15,$300.00 ,Online,Midnight
+414,1/21/2023,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Unknown,Night
+659,1/21/2023,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Online,Afternoon
+933,1/21/2023,Sugarcane juice,Beverages,$25.00 ,15,$375.00 ,Online,Afternoon
+173,1/20/2023,Cold coffee,Beverages,$40.00 ,2,$80.00 ,Online,Night
+426,1/20/2023,Frankie,Fastfood,$50.00 ,14,$700.00 ,Cash,Midnight
+594,1/20/2023,Frankie,Fastfood,$50.00 ,6,$300.00 ,Cash,Morning
+629,1/20/2023,Sugarcane juice,Beverages,$25.00 ,9,$225.00 ,Cash,Evening
+131,1/19/2023,Sandwich,Fastfood,$60.00 ,8,$480.00 ,Cash,Night
+161,1/19/2023,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Cash,Evening
+343,1/18/2023,Sugarcane juice,Beverages,$25.00 ,5,$125.00 ,Cash,Afternoon
+824,1/18/2023,Vadapav,Fastfood,$20.00 ,2,$40.00 ,Online,Evening
+991,1/18/2023,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Cash,Night
+447,1/17/2023,Frankie,Fastfood,$50.00 ,6,$300.00 ,Online,Afternoon
+292,1/16/2023,Frankie,Fastfood,$50.00 ,2,$100.00 ,Cash,Midnight
+354,1/16/2023,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Online,Midnight
+417,1/16/2023,Panipuri,Fastfood,$20.00 ,3,$60.00 ,Cash,Evening
+779,1/16/2023,Sandwich,Fastfood,$60.00 ,13,$780.00 ,Unknown,Night
+948,1/16/2023,Sandwich,Fastfood,$60.00 ,10,$600.00 ,Online,Evening
+465,1/15/2023,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Online,Evening
+975,1/15/2023,Aalopuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Midnight
+135,1/14/2023,Aalopuri,Fastfood,$20.00 ,8,$160.00 ,Online,Midnight
+494,1/14/2023,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Cash,Night
+747,1/14/2023,Cold coffee,Beverages,$40.00 ,3,$120.00 ,Cash,Midnight
+185,1/13/2023,Sugarcane juice,Beverages,$25.00 ,15,$375.00 ,Unknown,Night
+398,1/13/2023,Panipuri,Fastfood,$20.00 ,6,$120.00 ,Online,Evening
+692,1/13/2023,Frankie,Fastfood,$50.00 ,14,$700.00 ,Online,Afternoon
+115,1/12/2023,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Unknown,Evening
+768,1/12/2023,Sandwich,Fastfood,$60.00 ,14,$840.00 ,Cash,Afternoon
+261,1/11/2023,Frankie,Fastfood,$50.00 ,9,$450.00 ,Cash,Midnight
+466,1/11/2023,Panipuri,Fastfood,$20.00 ,6,$120.00 ,Cash,Evening
+472,1/11/2023,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Unknown,Midnight
+512,1/11/2023,Panipuri,Fastfood,$20.00 ,3,$60.00 ,Cash,Afternoon
+799,1/11/2023,Panipuri,Fastfood,$20.00 ,1,$20.00 ,Online,Night
+816,1/11/2023,Sugarcane juice,Beverages,$25.00 ,11,$275.00 ,Cash,Morning
+69,1/10/2023,Vadapav,Fastfood,$20.00 ,7,$140.00 ,Cash,Midnight
+329,1/10/2023,Panipuri,Fastfood,$20.00 ,7,$140.00 ,Online,Afternoon
+657,1/10/2023,Cold coffee,Beverages,$40.00 ,7,$280.00 ,Unknown,Midnight
+795,1/10/2023,Vadapav,Fastfood,$20.00 ,9,$180.00 ,Cash,Evening
+949,1/7/2023,Panipuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Evening
+984,1/7/2023,Frankie,Fastfood,$50.00 ,3,$150.00 ,Cash,Afternoon
+28,1/6/2023,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Online,Afternoon
+163,1/6/2023,Frankie,Fastfood,$50.00 ,6,$300.00 ,Online,Midnight
+527,1/6/2023,Sugarcane juice,Beverages,$25.00 ,6,$150.00 ,Cash,Afternoon
+827,1/6/2023,Sandwich,Fastfood,$60.00 ,12,$720.00 ,Cash,Midnight
+37,1/5/2023,Frankie,Fastfood,$50.00 ,10,$500.00 ,Cash,Night
+165,1/5/2023,Sandwich,Fastfood,$60.00 ,11,$660.00 ,Cash,Midnight
+198,1/5/2023,Frankie,Fastfood,$50.00 ,15,$750.00 ,Cash,Morning
+436,1/5/2023,Frankie,Fastfood,$50.00 ,10,$500.00 ,Cash,Midnight
+977,1/5/2023,Aalopuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Evening
+274,1/4/2023,Sugarcane juice,Beverages,$25.00 ,10,$250.00 ,Online,Night
+502,1/4/2023,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Online,Night
+640,1/4/2023,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Online,Night
+987,1/4/2023,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Cash,Evening
+184,1/3/2023,Cold coffee,Beverages,$40.00 ,8,$320.00 ,Cash,Night
+257,1/3/2023,Sandwich,Fastfood,$60.00 ,10,$600.00 ,Cash,Midnight
+895,1/3/2023,Sugarcane juice,Beverages,$25.00 ,11,$275.00 ,Cash,Afternoon
+919,1/3/2023,Vadapav,Fastfood,$20.00 ,8,$160.00 ,Online,Evening
+988,1/3/2023,Frankie,Fastfood,$50.00 ,13,$650.00 ,Unknown,Night
+210,1/2/2023,Sugarcane juice,Beverages,$25.00 ,15,$375.00 ,Unknown,Night
+407,1/2/2023,Sugarcane juice,Beverages,$25.00 ,2,$50.00 ,Cash,Evening
+569,1/2/2023,Cold coffee,Beverages,$40.00 ,15,$600.00 ,Online,Midnight
+755,1/2/2023,Aalopuri,Fastfood,$20.00 ,12,$240.00 ,Cash,Night
+545,1/1/2023,Sandwich,Fastfood,$60.00 ,13,$780.00 ,Online,Midnight
+903,1/1/2023,Aalopuri,Fastfood,$20.00 ,15,$300.00 ,Online,Night
+456,12/31/2022,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Unknown,Night
+142,12/30/2022,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Cash,Morning
+362,12/30/2022,Sugarcane juice,Beverages,$25.00 ,2,$50.00 ,Cash,Morning
+323,12/29/2022,Aalopuri,Fastfood,$20.00 ,4,$80.00 ,Cash,Morning
+522,12/29/2022,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Midnight
+568,12/29/2022,Panipuri,Fastfood,$20.00 ,12,$240.00 ,Unknown,Afternoon
+754,12/29/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Cash,Evening
+54,12/28/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Online,Morning
+130,12/28/2022,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Cash,Night
+188,12/28/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Cash,Night
+312,12/28/2022,Cold coffee,Beverages,$40.00 ,1,$40.00 ,Cash,Night
+718,12/28/2022,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Online,Afternoon
+478,12/27/2022,Sugarcane juice,Beverages,$25.00 ,9,$225.00 ,Cash,Afternoon
+810,12/27/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Online,Morning
+891,12/27/2022,Cold coffee,Beverages,$40.00 ,11,$440.00 ,Cash,Midnight
+490,12/26/2022,Cold coffee,Beverages,$40.00 ,8,$320.00 ,Cash,Morning
+506,12/26/2022,Cold coffee,Beverages,$40.00 ,12,$480.00 ,Cash,Midnight
+61,12/25/2022,Vadapav,Fastfood,$20.00 ,14,$280.00 ,Cash,Afternoon
+200,12/25/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Cash,Morning
+452,12/25/2022,Frankie,Fastfood,$50.00 ,5,$250.00 ,Online,Afternoon
+757,12/25/2022,Sugarcane juice,Beverages,$25.00 ,11,$275.00 ,Online,Morning
+759,12/25/2022,Sugarcane juice,Beverages,$25.00 ,13,$325.00 ,Online,Midnight
+98,12/24/2022,Vadapav,Fastfood,$20.00 ,1,$20.00 ,Online,Morning
+428,12/24/2022,Sugarcane juice,Beverages,$25.00 ,8,$200.00 ,Online,Afternoon
+575,12/24/2022,Vadapav,Fastfood,$20.00 ,1,$20.00 ,Online,Midnight
+600,12/24/2022,Panipuri,Fastfood,$20.00 ,6,$120.00 ,Cash,Morning
+901,12/24/2022,Vadapav,Fastfood,$20.00 ,7,$140.00 ,Online,Morning
+89,12/23/2022,Aalopuri,Fastfood,$20.00 ,14,$280.00 ,Cash,Evening
+218,12/23/2022,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Online,Midnight
+242,12/23/2022,Cold coffee,Beverages,$40.00 ,4,$160.00 ,Online,Midnight
+8,12/22/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Online,Night
+13,12/22/2022,Panipuri,Fastfood,$20.00 ,9,$180.00 ,Online,Afternoon
+269,12/22/2022,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Unknown,Midnight
+389,12/22/2022,Sandwich,Fastfood,$60.00 ,12,$720.00 ,Cash,Evening
+21,12/21/2022,Cold coffee,Beverages,$40.00 ,15,$600.00 ,Cash,Evening
+251,12/21/2022,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Unknown,Afternoon
+318,12/21/2022,Aalopuri,Fastfood,$20.00 ,10,$200.00 ,Online,Midnight
+133,12/20/2022,Aalopuri,Fastfood,$20.00 ,5,$100.00 ,Online,Midnight
+614,12/19/2022,Vadapav,Fastfood,$20.00 ,2,$40.00 ,Unknown,Morning
+687,12/18/2022,Vadapav,Fastfood,$20.00 ,10,$200.00 ,Cash,Midnight
+68,12/17/2022,Cold coffee,Beverages,$40.00 ,2,$80.00 ,Unknown,Night
+308,12/17/2022,Sandwich,Fastfood,$60.00 ,13,$780.00 ,Online,Evening
+712,12/17/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Online,Midnight
+924,12/17/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Cash,Afternoon
+707,12/16/2022,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Online,Night
+782,12/16/2022,Aalopuri,Fastfood,$20.00 ,5,$100.00 ,Online,Night
+194,12/15/2022,Vadapav,Fastfood,$20.00 ,4,$80.00 ,Cash,Morning
+229,12/15/2022,Panipuri,Fastfood,$20.00 ,7,$140.00 ,Unknown,Evening
+607,12/15/2022,Vadapav,Fastfood,$20.00 ,9,$180.00 ,Cash,Afternoon
+286,12/14/2022,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Unknown,Night
+507,12/14/2022,Aalopuri,Fastfood,$20.00 ,14,$280.00 ,Online,Morning
+544,12/14/2022,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Online,Morning
+622,12/14/2022,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Online,Afternoon
+714,12/14/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Cash,Afternoon
+154,12/13/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Cash,Night
+405,12/13/2022,Sugarcane juice,Beverages,$25.00 ,10,$250.00 ,Cash,Night
+905,12/13/2022,Frankie,Fastfood,$50.00 ,15,$750.00 ,Cash,Midnight
+113,12/12/2022,Aalopuri,Fastfood,$20.00 ,8,$160.00 ,Cash,Afternoon
+226,12/12/2022,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Online,Afternoon
+809,12/12/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Online,Evening
+240,12/11/2022,Sandwich,Fastfood,$60.00 ,10,$600.00 ,Cash,Morning
+215,12/10/2022,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Unknown,Morning
+508,12/10/2022,Sandwich,Fastfood,$60.00 ,1,$60.00 ,Cash,Night
+560,12/10/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Cash,Evening
+64,12/9/2022,Cold coffee,Beverages,$40.00 ,1,$40.00 ,Cash,Morning
+178,12/9/2022,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Cash,Morning
+504,12/9/2022,Cold coffee,Beverages,$40.00 ,8,$320.00 ,Cash,Evening
+518,12/9/2022,Aalopuri,Fastfood,$20.00 ,6,$120.00 ,Cash,Morning
+681,12/9/2022,Frankie,Fastfood,$50.00 ,9,$450.00 ,Online,Night
+277,12/8/2022,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Cash,Midnight
+785,12/7/2022,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Online,Afternoon
+871,12/7/2022,Vadapav,Fastfood,$20.00 ,14,$280.00 ,Unknown,Evening
+900,12/7/2022,Sugarcane juice,Beverages,$25.00 ,9,$225.00 ,Online,Afternoon
+71,12/5/2022,Cold coffee,Beverages,$40.00 ,6,$240.00 ,Online,Night
+132,12/5/2022,Vadapav,Fastfood,$20.00 ,4,$80.00 ,Online,Night
+415,12/5/2022,Vadapav,Fastfood,$20.00 ,8,$160.00 ,Online,Evening
+209,12/4/2022,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Cash,Night
+239,12/4/2022,Frankie,Fastfood,$50.00 ,4,$200.00 ,Online,Evening
+376,12/4/2022,Frankie,Fastfood,$50.00 ,15,$750.00 ,Cash,Midnight
+584,12/4/2022,Cold coffee,Beverages,$40.00 ,15,$600.00 ,Cash,Morning
+592,12/4/2022,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Cash,Morning
+127,12/3/2022,Aalopuri,Fastfood,$20.00 ,1,$20.00 ,Unknown,Morning
+214,12/3/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Online,Evening
+716,12/3/2022,Panipuri,Fastfood,$20.00 ,9,$180.00 ,Cash,Midnight
+713,12/2/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Online,Morning
+826,12/2/2022,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Cash,Night
+927,12/2/2022,Cold coffee,Beverages,$40.00 ,6,$240.00 ,Unknown,Evening
+11,12/1/2022,Frankie,Fastfood,$50.00 ,8,$400.00 ,Online,Afternoon
+63,12/1/2022,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Online,Morning
+180,12/1/2022,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Online,Afternoon
+366,11/30/2022,Sugarcane juice,Beverages,$25.00 ,10,$250.00 ,Online,Afternoon
+597,11/30/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Online,Midnight
+235,11/29/2022,Sandwich,Fastfood,$60.00 ,10,$600.00 ,Cash,Afternoon
+327,11/29/2022,Frankie,Fastfood,$50.00 ,15,$750.00 ,Cash,Midnight
+693,11/29/2022,Sugarcane juice,Beverages,$25.00 ,13,$325.00 ,Online,Midnight
+289,11/28/2022,Aalopuri,Fastfood,$20.00 ,7,$140.00 ,Online,Midnight
+440,11/28/2022,Aalopuri,Fastfood,$20.00 ,7,$140.00 ,Cash,Afternoon
+571,11/28/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Cash,Evening
+656,11/28/2022,Sandwich,Fastfood,$60.00 ,6,$360.00 ,Online,Midnight
+830,11/28/2022,Cold coffee,Beverages,$40.00 ,9,$360.00 ,Unknown,Night
+959,11/28/2022,Vadapav,Fastfood,$20.00 ,8,$160.00 ,Online,Midnight
+780,11/27/2022,Sugarcane juice,Beverages,$25.00 ,13,$325.00 ,Online,Afternoon
+930,11/27/2022,Sugarcane juice,Beverages,$25.00 ,10,$250.00 ,Online,Night
+404,11/26/2022,Frankie,Fastfood,$50.00 ,7,$350.00 ,Cash,Midnight
+698,11/26/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Online,Night
+797,11/26/2022,Cold coffee,Beverages,$40.00 ,11,$440.00 ,Cash,Night
+14,11/25/2022,Frankie,Fastfood,$50.00 ,4,$200.00 ,Online,Morning
+519,11/25/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Cash,Morning
+686,11/25/2022,Cold coffee,Beverages,$40.00 ,5,$200.00 ,Cash,Afternoon
+672,11/24/2022,Cold coffee,Beverages,$40.00 ,3,$120.00 ,Unknown,Evening
+729,11/24/2022,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Cash,Night
+990,11/24/2022,Vadapav,Fastfood,$20.00 ,10,$200.00 ,Online,Morning
+56,11/23/2022,Panipuri,Fastfood,$20.00 ,11,$220.00 ,Cash,Midnight
+386,11/23/2022,Frankie,Fastfood,$50.00 ,5,$250.00 ,Online,Midnight
+410,11/23/2022,Aalopuri,Fastfood,$20.00 ,15,$300.00 ,Online,Afternoon
+902,11/23/2022,Frankie,Fastfood,$50.00 ,4,$200.00 ,Online,Afternoon
+244,11/22/2022,Sandwich,Fastfood,$60.00 ,10,$600.00 ,Online,Midnight
+858,11/22/2022,Cold coffee,Beverages,$40.00 ,9,$360.00 ,Cash,Evening
+970,11/21/2022,Aalopuri,Fastfood,$20.00 ,5,$100.00 ,Online,Afternoon
+3,11/20/2022,Vadapav,Fastfood,$20.00 ,1,$20.00 ,Cash,Afternoon
+411,11/20/2022,Panipuri,Fastfood,$20.00 ,12,$240.00 ,Cash,Afternoon
+460,11/20/2022,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Cash,Morning
+81,11/19/2022,Frankie,Fastfood,$50.00 ,12,$600.00 ,Online,Night
+372,11/19/2022,Frankie,Fastfood,$50.00 ,12,$600.00 ,Unknown,Morning
+259,11/18/2022,Sandwich,Fastfood,$60.00 ,4,$240.00 ,Online,Morning
+742,11/18/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Online,Night
+144,11/17/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Cash,Evening
+227,11/17/2022,Cold coffee,Beverages,$40.00 ,5,$200.00 ,Cash,Afternoon
+375,11/17/2022,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Evening
+916,11/17/2022,Cold coffee,Beverages,$40.00 ,15,$600.00 ,Unknown,Afternoon
+110,11/16/2022,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Online,Morning
+246,11/16/2022,Vadapav,Fastfood,$20.00 ,10,$200.00 ,Cash,Afternoon
+250,11/15/2022,Sugarcane juice,Beverages,$25.00 ,6,$150.00 ,Online,Midnight
+550,11/15/2022,Cold coffee,Beverages,$40.00 ,15,$600.00 ,Online,Afternoon
+700,11/15/2022,Frankie,Fastfood,$50.00 ,6,$300.00 ,Cash,Evening
+6,11/14/2022,Vadapav,Fastfood,$20.00 ,10,$200.00 ,Cash,Evening
+760,11/14/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Online,Evening
+41,11/13/2022,Cold coffee,Beverages,$40.00 ,11,$440.00 ,Unknown,Afternoon
+83,11/13/2022,Frankie,Fastfood,$50.00 ,11,$550.00 ,Unknown,Evening
+243,11/12/2022,Panipuri,Fastfood,$20.00 ,5,$100.00 ,Cash,Midnight
+418,11/12/2022,Cold coffee,Beverages,$40.00 ,7,$280.00 ,Online,Night
+761,11/12/2022,Sandwich,Fastfood,$60.00 ,3,$180.00 ,Unknown,Midnight
+918,11/12/2022,Panipuri,Fastfood,$20.00 ,6,$120.00 ,Cash,Evening
+553,11/11/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Cash,Evening
+951,11/11/2022,Panipuri,Fastfood,$20.00 ,11,$220.00 ,Cash,Afternoon
+848,11/10/2022,Frankie,Fastfood,$50.00 ,9,$450.00 ,Cash,Night
+953,11/10/2022,Sandwich,Fastfood,$60.00 ,2,$120.00 ,Online,Afternoon
+743,11/9/2022,Panipuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Morning
+197,11/8/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Cash,Midnight
+237,11/8/2022,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Midnight
+857,11/8/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Online,Evening
+496,11/7/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Online,Night
+49,11/6/2022,Frankie,Fastfood,$50.00 ,4,$200.00 ,Online,Morning
+800,11/6/2022,Cold coffee,Beverages,$40.00 ,14,$560.00 ,Cash,Night
+879,11/6/2022,Cold coffee,Beverages,$40.00 ,9,$360.00 ,Cash,Evening
+969,11/6/2022,Cold coffee,Beverages,$40.00 ,11,$440.00 ,Cash,Morning
+18,11/5/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Cash,Night
+79,11/5/2022,Panipuri,Fastfood,$20.00 ,6,$120.00 ,Online,Night
+228,11/5/2022,Panipuri,Fastfood,$20.00 ,8,$160.00 ,Online,Night
+430,11/5/2022,Sandwich,Fastfood,$60.00 ,4,$240.00 ,Online,Night
+649,11/5/2022,Frankie,Fastfood,$50.00 ,9,$450.00 ,Cash,Midnight
+503,11/4/2022,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Morning
+523,11/3/2022,Frankie,Fastfood,$50.00 ,6,$300.00 ,Cash,Afternoon
+849,11/3/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Cash,Night
+50,11/2/2022,Vadapav,Fastfood,$20.00 ,8,$160.00 ,Cash,Midnight
+316,11/2/2022,Frankie,Fastfood,$50.00 ,4,$200.00 ,Online,Morning
+441,11/2/2022,Aalopuri,Fastfood,$20.00 ,1,$20.00 ,Online,Midnight
+515,11/2/2022,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Unknown,Night
+679,11/2/2022,Sandwich,Fastfood,$60.00 ,12,$720.00 ,Online,Morning
+601,11/1/2022,Aalopuri,Fastfood,$20.00 ,12,$240.00 ,Online,Morning
+703,11/1/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Online,Afternoon
+994,11/1/2022,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Online,Evening
+396,10/31/2022,Frankie,Fastfood,$50.00 ,15,$750.00 ,Online,Morning
+664,10/31/2022,Frankie,Fastfood,$50.00 ,10,$500.00 ,Online,Morning
+870,10/31/2022,Cold coffee,Beverages,$40.00 ,5,$200.00 ,Online,Afternoon
+333,10/30/2022,Sugarcane juice,Beverages,$25.00 ,11,$275.00 ,Cash,Afternoon
+711,10/30/2022,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Cash,Afternoon
+825,10/30/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Cash,Morning
+896,10/30/2022,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Night
+90,10/29/2022,Vadapav,Fastfood,$20.00 ,15,$300.00 ,Online,Night
+481,10/29/2022,Sugarcane juice,Beverages,$25.00 ,4,$100.00 ,Cash,Evening
+146,10/28/2022,Frankie,Fastfood,$50.00 ,4,$200.00 ,Unknown,Afternoon
+632,10/28/2022,Panipuri,Fastfood,$20.00 ,9,$180.00 ,Online,Night
+104,10/27/2022,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Online,Morning
+358,10/27/2022,Aalopuri,Fastfood,$20.00 ,6,$120.00 ,Cash,Night
+877,10/27/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Cash,Afternoon
+192,10/26/2022,Vadapav,Fastfood,$20.00 ,2,$40.00 ,Online,Night
+249,10/26/2022,Sugarcane juice,Beverages,$25.00 ,3,$75.00 ,Online,Afternoon
+509,10/26/2022,Vadapav,Fastfood,$20.00 ,11,$220.00 ,Online,Evening
+152,10/24/2022,Cold coffee,Beverages,$40.00 ,9,$360.00 ,Online,Afternoon
+204,10/24/2022,Cold coffee,Beverages,$40.00 ,7,$280.00 ,Cash,Evening
+335,10/24/2022,Cold coffee,Beverages,$40.00 ,11,$440.00 ,Cash,Night
+887,10/24/2022,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Cash,Morning
+777,10/23/2022,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Morning
+855,10/23/2022,Vadapav,Fastfood,$20.00 ,5,$100.00 ,Online,Evening
+384,10/22/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Online,Afternoon
+445,10/22/2022,Sandwich,Fastfood,$60.00 ,14,$840.00 ,Online,Morning
+574,10/22/2022,Aalopuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Night
+423,10/21/2022,Frankie,Fastfood,$50.00 ,7,$350.00 ,Cash,Night
+756,10/21/2022,Sugarcane juice,Beverages,$25.00 ,10,$250.00 ,Online,Morning
+992,10/21/2022,Sandwich,Fastfood,$60.00 ,5,$300.00 ,Cash,Morning
+380,10/20/2022,Sandwich,Fastfood,$60.00 ,5,$300.00 ,Online,Afternoon
+453,10/20/2022,Sandwich,Fastfood,$60.00 ,1,$60.00 ,Online,Midnight
+495,10/20/2022,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Online,Midnight
+643,10/20/2022,Sugarcane juice,Beverages,$25.00 ,2,$50.00 ,Cash,Afternoon
+129,10/19/2022,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Morning
+907,10/19/2022,Cold coffee,Beverages,$40.00 ,4,$160.00 ,Unknown,Midnight
+371,10/18/2022,Vadapav,Fastfood,$20.00 ,5,$100.00 ,Online,Night
+464,10/18/2022,Sugarcane juice,Beverages,$25.00 ,13,$325.00 ,Cash,Morning
+932,10/18/2022,Sandwich,Fastfood,$60.00 ,9,$540.00 ,Online,Afternoon
+62,10/17/2022,Sugarcane juice,Beverages,$25.00 ,3,$75.00 ,Cash,Afternoon
+175,10/17/2022,Frankie,Fastfood,$50.00 ,12,$600.00 ,Cash,Afternoon
+205,10/17/2022,Vadapav,Fastfood,$20.00 ,4,$80.00 ,Unknown,Afternoon
+467,10/17/2022,Aalopuri,Fastfood,$20.00 ,11,$220.00 ,Online,Morning
+17,10/16/2022,Panipuri,Fastfood,$20.00 ,11,$220.00 ,Cash,Morning
+457,10/16/2022,Cold coffee,Beverages,$40.00 ,11,$440.00 ,Cash,Evening
+567,10/16/2022,Cold coffee,Beverages,$40.00 ,7,$280.00 ,Online,Afternoon
+885,10/16/2022,Sugarcane juice,Beverages,$25.00 ,4,$100.00 ,Cash,Evening
+337,10/15/2022,Aalopuri,Fastfood,$20.00 ,14,$280.00 ,Online,Midnight
+124,10/14/2022,Sugarcane juice,Beverages,$25.00 ,13,$325.00 ,Unknown,Evening
+309,10/14/2022,Sandwich,Fastfood,$60.00 ,8,$480.00 ,Online,Evening
+854,10/14/2022,Cold coffee,Beverages,$40.00 ,14,$560.00 ,Online,Night
+406,10/13/2022,Cold coffee,Beverages,$40.00 ,4,$160.00 ,Online,Afternoon
+563,10/13/2022,Frankie,Fastfood,$50.00 ,7,$350.00 ,Online,Evening
+813,10/13/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Online,Afternoon
+27,10/12/2022,Cold coffee,Beverages,$40.00 ,11,$440.00 ,Online,Afternoon
+819,10/12/2022,Vadapav,Fastfood,$20.00 ,10,$200.00 ,Cash,Evening
+187,10/11/2022,Aalopuri,Fastfood,$20.00 ,15,$300.00 ,Cash,Morning
+364,10/11/2022,Cold coffee,Beverages,$40.00 ,2,$80.00 ,Online,Night
+401,10/11/2022,Sugarcane juice,Beverages,$25.00 ,8,$200.00 ,Online,Midnight
+661,10/11/2022,Frankie,Fastfood,$50.00 ,7,$350.00 ,Online,Midnight
+682,10/11/2022,Aalopuri,Fastfood,$20.00 ,14,$280.00 ,Online,Midnight
+717,10/11/2022,Sugarcane juice,Beverages,$25.00 ,15,$375.00 ,Unknown,Evening
+804,10/11/2022,Cold coffee,Beverages,$40.00 ,12,$480.00 ,Online,Night
+989,10/11/2022,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Cash,Afternoon
+658,10/10/2022,Aalopuri,Fastfood,$20.00 ,12,$240.00 ,Unknown,Afternoon
+145,10/9/2022,Sandwich,Fastfood,$60.00 ,14,$840.00 ,Online,Morning
+254,10/9/2022,Cold coffee,Beverages,$40.00 ,12,$480.00 ,Unknown,Afternoon
+280,10/9/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Online,Evening
+388,10/9/2022,Sandwich,Fastfood,$60.00 ,14,$840.00 ,Cash,Evening
+671,10/9/2022,Sandwich,Fastfood,$60.00 ,2,$120.00 ,Online,Afternoon
+910,10/9/2022,Panipuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Afternoon
+419,10/8/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Unknown,Midnight
+859,10/8/2022,Sandwich,Fastfood,$60.00 ,11,$660.00 ,Cash,Midnight
+965,10/8/2022,Frankie,Fastfood,$50.00 ,5,$250.00 ,Online,Night
+978,10/8/2022,Frankie,Fastfood,$50.00 ,2,$100.00 ,Online,Night
+705,10/7/2022,Sandwich,Fastfood,$60.00 ,6,$360.00 ,Online,Evening
+734,10/7/2022,Frankie,Fastfood,$50.00 ,7,$350.00 ,Cash,Evening
+915,10/7/2022,Cold coffee,Beverages,$40.00 ,7,$280.00 ,Online,Afternoon
+360,10/6/2022,Cold coffee,Beverages,$40.00 ,2,$80.00 ,Online,Midnight
+408,10/5/2022,Vadapav,Fastfood,$20.00 ,4,$80.00 ,Online,Midnight
+690,10/5/2022,Vadapav,Fastfood,$20.00 ,9,$180.00 ,Cash,Night
+814,10/5/2022,Vadapav,Fastfood,$20.00 ,13,$260.00 ,Cash,Midnight
+963,10/5/2022,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Cash,Morning
+22,10/4/2022,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Online,Evening
+531,10/4/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Cash,Night
+159,10/3/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Online,Afternoon
+245,10/3/2022,Vadapav,Fastfood,$20.00 ,2,$40.00 ,Cash,Morning
+247,10/3/2022,Sugarcane juice,Beverages,$25.00 ,6,$150.00 ,Unknown,Midnight
+599,10/3/2022,Frankie,Fastfood,$50.00 ,13,$650.00 ,Cash,Morning
+5,10/2/2022,Sugarcane juice,Beverages,$25.00 ,8,$200.00 ,Online,Evening
+266,10/2/2022,Frankie,Fastfood,$50.00 ,10,$500.00 ,Online,Night
+480,10/2/2022,Vadapav,Fastfood,$20.00 ,12,$240.00 ,Cash,Evening
+493,10/2/2022,Cold coffee,Beverages,$40.00 ,2,$80.00 ,Online,Morning
+794,10/2/2022,Sugarcane juice,Beverages,$25.00 ,5,$125.00 ,Online,Afternoon
+971,10/2/2022,Frankie,Fastfood,$50.00 ,2,$100.00 ,Cash,Morning
+78,10/1/2022,Vadapav,Fastfood,$20.00 ,4,$80.00 ,Cash,Evening
+219,10/1/2022,Aalopuri,Fastfood,$20.00 ,9,$180.00 ,Cash,Evening
+558,10/1/2022,Panipuri,Fastfood,$20.00 ,5,$100.00 ,Online,Morning
+591,10/1/2022,Sandwich,Fastfood,$60.00 ,13,$780.00 ,Cash,Morning
+276,9/30/2022,Sugarcane juice,Beverages,$25.00 ,6,$150.00 ,Cash,Midnight
+439,9/30/2022,Frankie,Fastfood,$50.00 ,13,$650.00 ,Online,Afternoon
+213,9/29/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Unknown,Midnight
+470,9/29/2022,Vadapav,Fastfood,$20.00 ,8,$160.00 ,Cash,Morning
+444,9/28/2022,Frankie,Fastfood,$50.00 ,4,$200.00 ,Unknown,Evening
+667,9/28/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Cash,Evening
+564,9/27/2022,Cold coffee,Beverages,$40.00 ,2,$80.00 ,Unknown,Morning
+565,9/27/2022,Panipuri,Fastfood,$20.00 ,15,$300.00 ,Cash,Evening
+835,9/27/2022,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Online,Afternoon
+403,9/25/2022,Cold coffee,Beverages,$40.00 ,3,$120.00 ,Online,Midnight
+736,9/25/2022,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Unknown,Afternoon
+758,9/25/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Cash,Evening
+950,9/25/2022,Frankie,Fastfood,$50.00 ,6,$300.00 ,Online,Evening
+952,9/24/2022,Aalopuri,Fastfood,$20.00 ,14,$280.00 ,Cash,Evening
+294,9/23/2022,Aalopuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Evening
+330,9/22/2022,Panipuri,Fastfood,$20.00 ,8,$160.00 ,Unknown,Morning
+516,9/22/2022,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Online,Midnight
+202,9/21/2022,Aalopuri,Fastfood,$20.00 ,9,$180.00 ,Cash,Afternoon
+223,9/21/2022,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Online,Night
+350,9/21/2022,Cold coffee,Beverages,$40.00 ,8,$320.00 ,Online,Morning
+357,9/21/2022,Sandwich,Fastfood,$60.00 ,9,$540.00 ,Online,Afternoon
+488,9/21/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Cash,Midnight
+808,9/21/2022,Panipuri,Fastfood,$20.00 ,1,$20.00 ,Online,Morning
+921,9/21/2022,Vadapav,Fastfood,$20.00 ,14,$280.00 ,Cash,Midnight
+737,9/20/2022,Frankie,Fastfood,$50.00 ,13,$650.00 ,Online,Night
+748,9/20/2022,Sandwich,Fastfood,$60.00 ,14,$840.00 ,Cash,Night
+997,9/20/2022,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Unknown,Evening
+348,9/19/2022,Vadapav,Fastfood,$20.00 ,1,$20.00 ,Online,Midnight
+429,9/19/2022,Cold coffee,Beverages,$40.00 ,3,$120.00 ,Online,Night
+829,9/19/2022,Cold coffee,Beverages,$40.00 ,6,$240.00 ,Cash,Night
+934,9/19/2022,Cold coffee,Beverages,$40.00 ,4,$160.00 ,Cash,Afternoon
+143,9/18/2022,Frankie,Fastfood,$50.00 ,8,$400.00 ,Unknown,Afternoon
+392,9/18/2022,Aalopuri,Fastfood,$20.00 ,15,$300.00 ,Online,Night
+684,9/18/2022,Vadapav,Fastfood,$20.00 ,5,$100.00 ,Cash,Afternoon
+673,9/17/2022,Sandwich,Fastfood,$60.00 ,12,$720.00 ,Cash,Midnight
+912,9/17/2022,Aalopuri,Fastfood,$20.00 ,6,$120.00 ,Cash,Evening
+10,9/16/2022,Panipuri,Fastfood,$20.00 ,5,$100.00 ,Online,Afternoon
+751,9/16/2022,Vadapav,Fastfood,$20.00 ,2,$40.00 ,Cash,Afternoon
+20,9/15/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Online,Night
+409,9/15/2022,Aalopuri,Fastfood,$20.00 ,9,$180.00 ,Cash,Morning
+570,9/15/2022,Sugarcane juice,Beverages,$25.00 ,4,$100.00 ,Cash,Morning
+31,9/14/2022,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Online,Evening
+94,9/14/2022,Aalopuri,Fastfood,$20.00 ,15,$300.00 ,Unknown,Night
+279,9/14/2022,Vadapav,Fastfood,$20.00 ,15,$300.00 ,Cash,Afternoon
+620,9/14/2022,Panipuri,Fastfood,$20.00 ,12,$240.00 ,Online,Evening
+722,9/14/2022,Vadapav,Fastfood,$20.00 ,15,$300.00 ,Unknown,Midnight
+458,9/12/2022,Sugarcane juice,Beverages,$25.00 ,8,$200.00 ,Cash,Midnight
+552,9/12/2022,Sugarcane juice,Beverages,$25.00 ,15,$375.00 ,Cash,Midnight
+99,9/11/2022,Sugarcane juice,Beverages,$25.00 ,3,$75.00 ,Cash,Evening
+222,9/11/2022,Sandwich,Fastfood,$60.00 ,6,$360.00 ,Cash,Morning
+726,9/11/2022,Panipuri,Fastfood,$20.00 ,1,$20.00 ,Online,Morning
+745,9/11/2022,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Online,Evening
+260,9/10/2022,Sugarcane juice,Beverages,$25.00 ,2,$50.00 ,Online,Night
+449,9/9/2022,Frankie,Fastfood,$50.00 ,4,$200.00 ,Cash,Afternoon
+619,9/9/2022,Sugarcane juice,Beverages,$25.00 ,4,$100.00 ,Cash,Morning
+699,9/9/2022,Cold coffee,Beverages,$40.00 ,1,$40.00 ,Online,Evening
+468,9/8/2022,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Cash,Evening
+604,9/8/2022,Frankie,Fastfood,$50.00 ,10,$500.00 ,Cash,Night
+863,9/8/2022,Frankie,Fastfood,$50.00 ,9,$450.00 ,Online,Night
+270,9/7/2022,Sandwich,Fastfood,$60.00 ,13,$780.00 ,Cash,Evening
+539,9/7/2022,Panipuri,Fastfood,$20.00 ,3,$60.00 ,Online,Evening
+573,9/7/2022,Frankie,Fastfood,$50.00 ,2,$100.00 ,Cash,Afternoon
+258,9/6/2022,Vadapav,Fastfood,$20.00 ,14,$280.00 ,Cash,Midnight
+577,9/6/2022,Cold coffee,Beverages,$40.00 ,7,$280.00 ,Cash,Evening
+443,9/5/2022,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Cash,Night
+535,9/5/2022,Sandwich,Fastfood,$60.00 ,4,$240.00 ,Online,Midnight
+888,9/5/2022,Vadapav,Fastfood,$20.00 ,8,$160.00 ,Cash,Evening
+111,9/4/2022,Sandwich,Fastfood,$60.00 ,8,$480.00 ,Cash,Midnight
+473,9/4/2022,Sandwich,Fastfood,$60.00 ,5,$300.00 ,Cash,Evening
+174,9/3/2022,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Online,Evening
+336,9/3/2022,Sugarcane juice,Beverages,$25.00 ,13,$325.00 ,Unknown,Midnight
+138,9/1/2022,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Online,Night
+833,9/1/2022,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Online,Evening
+25,8/31/2022,Sandwich,Fastfood,$60.00 ,1,$60.00 ,Online,Evening
+368,8/31/2022,Cold coffee,Beverages,$40.00 ,2,$80.00 ,Cash,Night
+437,8/31/2022,Cold coffee,Beverages,$40.00 ,1,$40.00 ,Unknown,Morning
+446,8/31/2022,Cold coffee,Beverages,$40.00 ,9,$360.00 ,Cash,Night
+559,8/31/2022,Cold coffee,Beverages,$40.00 ,5,$200.00 ,Online,Night
+603,8/31/2022,Vadapav,Fastfood,$20.00 ,10,$200.00 ,Cash,Afternoon
+749,8/31/2022,Vadapav,Fastfood,$20.00 ,11,$220.00 ,Cash,Morning
+836,8/31/2022,Vadapav,Fastfood,$20.00 ,2,$40.00 ,Cash,Midnight
+646,8/30/2022,Vadapav,Fastfood,$20.00 ,14,$280.00 ,Online,Afternoon
+793,8/30/2022,Sandwich,Fastfood,$60.00 ,6,$360.00 ,Cash,Night
+44,8/28/2022,Cold coffee,Beverages,$40.00 ,12,$480.00 ,Cash,Evening
+474,8/28/2022,Sugarcane juice,Beverages,$25.00 ,15,$375.00 ,Cash,Night
+172,8/27/2022,Sugarcane juice,Beverages,$25.00 ,6,$150.00 ,Online,Night
+359,8/27/2022,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Online,Night
+602,8/27/2022,Aalopuri,Fastfood,$20.00 ,10,$200.00 ,Cash,Night
+803,8/27/2022,Vadapav,Fastfood,$20.00 ,5,$100.00 ,Unknown,Night
+999,8/27/2022,Panipuri,Fastfood,$20.00 ,5,$100.00 ,Unknown,Afternoon
+116,8/26/2022,Sugarcane juice,Beverages,$25.00 ,13,$325.00 ,Cash,Evening
+121,8/26/2022,Cold coffee,Beverages,$40.00 ,8,$320.00 ,Cash,Afternoon
+208,8/26/2022,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Cash,Midnight
+589,8/25/2022,Cold coffee,Beverages,$40.00 ,5,$200.00 ,Cash,Night
+727,8/25/2022,Aalopuri,Fastfood,$20.00 ,5,$100.00 ,Cash,Midnight
+136,8/24/2022,Aalopuri,Fastfood,$20.00 ,15,$300.00 ,Online,Morning
+514,8/24/2022,Cold coffee,Beverages,$40.00 ,8,$320.00 ,Online,Evening
+695,8/24/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Online,Midnight
+883,8/24/2022,Aalopuri,Fastfood,$20.00 ,5,$100.00 ,Online,Midnight
+2,8/23/2022,Vadapav,Fastfood,$20.00 ,15,$300.00 ,Cash,Afternoon
+19,8/22/2022,Panipuri,Fastfood,$20.00 ,11,$220.00 ,Cash,Night
+96,8/22/2022,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Unknown,Morning
+288,8/22/2022,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Cash,Night
+442,8/22/2022,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Online,Night
+897,8/22/2022,Aalopuri,Fastfood,$20.00 ,6,$120.00 ,Online,Morning
+331,8/21/2022,Panipuri,Fastfood,$20.00 ,4,$80.00 ,Online,Evening
+434,8/21/2022,Aalopuri,Fastfood,$20.00 ,12,$240.00 ,Cash,Morning
+638,8/20/2022,Cold coffee,Beverages,$40.00 ,11,$440.00 ,Online,Afternoon
+850,8/20/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Online,Afternoon
+864,8/20/2022,Cold coffee,Beverages,$40.00 ,9,$360.00 ,Online,Morning
+85,8/19/2022,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Online,Night
+26,8/18/2022,Sugarcane juice,Beverages,$25.00 ,4,$100.00 ,Cash,Afternoon
+828,8/18/2022,Panipuri,Fastfood,$20.00 ,6,$120.00 ,Cash,Evening
+76,8/17/2022,Vadapav,Fastfood,$20.00 ,9,$180.00 ,Online,Morning
+349,8/17/2022,Panipuri,Fastfood,$20.00 ,5,$100.00 ,Cash,Evening
+425,8/17/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Online,Afternoon
+868,8/17/2022,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Evening
+382,8/16/2022,Cold coffee,Beverages,$40.00 ,9,$360.00 ,Cash,Night
+947,8/16/2022,Aalopuri,Fastfood,$20.00 ,11,$220.00 ,Online,Night
+45,8/15/2022,Sugarcane juice,Beverages,$25.00 ,6,$150.00 ,Cash,Afternoon
+74,8/15/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Online,Evening
+265,8/15/2022,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Cash,Midnight
+273,8/15/2022,Panipuri,Fastfood,$20.00 ,15,$300.00 ,Cash,Midnight
+771,8/15/2022,Panipuri,Fastfood,$20.00 ,5,$100.00 ,Online,Midnight
+114,8/14/2022,Aalopuri,Fastfood,$20.00 ,10,$200.00 ,Online,Afternoon
+615,8/14/2022,Sandwich,Fastfood,$60.00 ,14,$840.00 ,Unknown,Morning
+704,8/14/2022,Sandwich,Fastfood,$60.00 ,1,$60.00 ,Online,Evening
+773,8/14/2022,Cold coffee,Beverages,$40.00 ,7,$280.00 ,Online,Afternoon
+847,8/14/2022,Panipuri,Fastfood,$20.00 ,11,$220.00 ,Online,Midnight
+689,8/13/2022,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Cash,Afternoon
+721,8/13/2022,Panipuri,Fastfood,$20.00 ,12,$240.00 ,Unknown,Afternoon
+788,8/13/2022,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Online,Afternoon
+866,8/13/2022,Frankie,Fastfood,$50.00 ,10,$500.00 ,Online,Midnight
+683,8/12/2022,Frankie,Fastfood,$50.00 ,15,$750.00 ,Cash,Midnight
+878,8/12/2022,Sandwich,Fastfood,$60.00 ,6,$360.00 ,Online,Evening
+960,8/12/2022,Sugarcane juice,Beverages,$25.00 ,15,$375.00 ,Online,Evening
+164,8/10/2022,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Online,Afternoon
+367,8/10/2022,Panipuri,Fastfood,$20.00 ,6,$120.00 ,Unknown,Afternoon
+735,8/10/2022,Panipuri,Fastfood,$20.00 ,11,$220.00 ,Cash,Morning
+936,8/10/2022,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Unknown,Midnight
+938,8/10/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Cash,Evening
+149,8/9/2022,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Online,Morning
+281,8/9/2022,Sandwich,Fastfood,$60.00 ,3,$180.00 ,Cash,Afternoon
+501,8/9/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Online,Afternoon
+562,8/9/2022,Frankie,Fastfood,$50.00 ,4,$200.00 ,Cash,Afternoon
+968,8/9/2022,Cold coffee,Beverages,$40.00 ,15,$600.00 ,Cash,Morning
+109,8/8/2022,Cold coffee,Beverages,$40.00 ,12,$480.00 ,Unknown,Afternoon
+812,8/8/2022,Panipuri,Fastfood,$20.00 ,5,$100.00 ,Cash,Afternoon
+128,8/7/2022,Vadapav,Fastfood,$20.00 ,11,$220.00 ,Online,Midnight
+108,8/6/2022,Panipuri,Fastfood,$20.00 ,5,$100.00 ,Online,Afternoon
+287,8/6/2022,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Cash,Morning
+416,8/5/2022,Sandwich,Fastfood,$60.00 ,9,$540.00 ,Unknown,Morning
+746,8/5/2022,Sugarcane juice,Beverages,$25.00 ,5,$125.00 ,Online,Midnight
+875,8/5/2022,Vadapav,Fastfood,$20.00 ,15,$300.00 ,Cash,Evening
+57,8/4/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Online,Morning
+176,8/4/2022,Panipuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Midnight
+542,8/4/2022,Sugarcane juice,Beverages,$25.00 ,9,$225.00 ,Cash,Evening
+728,8/3/2022,Vadapav,Fastfood,$20.00 ,1,$20.00 ,Online,Midnight
+789,8/3/2022,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Cash,Morning
+422,8/2/2022,Cold coffee,Beverages,$40.00 ,7,$280.00 ,Online,Evening
+511,8/2/2022,Panipuri,Fastfood,$20.00 ,4,$80.00 ,Cash,Night
+598,8/2/2022,Cold coffee,Beverages,$40.00 ,8,$320.00 ,Cash,Afternoon
+831,8/1/2022,Frankie,Fastfood,$50.00 ,5,$250.00 ,Online,Morning
+233,7/31/2022,Panipuri,Fastfood,$20.00 ,5,$100.00 ,Cash,Morning
+311,7/31/2022,Frankie,Fastfood,$50.00 ,7,$350.00 ,Unknown,Morning
+838,7/31/2022,Cold coffee,Beverages,$40.00 ,9,$360.00 ,Online,Morning
+541,7/30/2022,Panipuri,Fastfood,$20.00 ,12,$240.00 ,Cash,Night
+551,7/30/2022,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Cash,Evening
+740,7/30/2022,Aalopuri,Fastfood,$20.00 ,9,$180.00 ,Cash,Midnight
+73,7/29/2022,Panipuri,Fastfood,$20.00 ,5,$100.00 ,Cash,Midnight
+272,7/29/2022,Frankie,Fastfood,$50.00 ,5,$250.00 ,Online,Night
+206,7/27/2022,Aalopuri,Fastfood,$20.00 ,4,$80.00 ,Cash,Night
+234,7/27/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Cash,Midnight
+448,7/27/2022,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Cash,Evening
+499,7/27/2022,Sandwich,Fastfood,$60.00 ,8,$480.00 ,Online,Evening
+530,7/27/2022,Panipuri,Fastfood,$20.00 ,6,$120.00 ,Cash,Night
+53,7/26/2022,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Afternoon
+634,7/26/2022,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Afternoon
+645,7/26/2022,Sandwich,Fastfood,$60.00 ,9,$540.00 ,Cash,Night
+65,7/25/2022,Aalopuri,Fastfood,$20.00 ,4,$80.00 ,Cash,Morning
+660,7/25/2022,Sandwich,Fastfood,$60.00 ,9,$540.00 ,Cash,Night
+374,7/24/2022,Frankie,Fastfood,$50.00 ,10,$500.00 ,Online,Midnight
+821,7/24/2022,Aalopuri,Fastfood,$20.00 ,12,$240.00 ,Cash,Midnight
+160,7/23/2022,Vadapav,Fastfood,$20.00 ,10,$200.00 ,Online,Night
+299,7/22/2022,Aalopuri,Fastfood,$20.00 ,1,$20.00 ,Online,Evening
+461,7/22/2022,Sugarcane juice,Beverages,$25.00 ,5,$125.00 ,Cash,Midnight
+153,7/21/2022,Panipuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Evening
+177,7/21/2022,Panipuri,Fastfood,$20.00 ,11,$220.00 ,Online,Morning
+295,7/21/2022,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Cash,Midnight
+886,7/21/2022,Sugarcane juice,Beverages,$25.00 ,4,$100.00 ,Cash,Night
+790,7/20/2022,Panipuri,Fastfood,$20.00 ,3,$60.00 ,Cash,Evening
+942,7/20/2022,Frankie,Fastfood,$50.00 ,6,$300.00 ,Cash,Night
+298,7/19/2022,Sugarcane juice,Beverages,$25.00 ,9,$225.00 ,Cash,Afternoon
+566,7/19/2022,Frankie,Fastfood,$50.00 ,3,$150.00 ,Cash,Evening
+701,7/19/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Online,Evening
+264,7/18/2022,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Online,Morning
+324,7/18/2022,Sugarcane juice,Beverages,$25.00 ,15,$375.00 ,Online,Night
+82,7/17/2022,Frankie,Fastfood,$50.00 ,3,$150.00 ,Online,Evening
+134,7/17/2022,Aalopuri,Fastfood,$20.00 ,12,$240.00 ,Online,Night
+674,7/17/2022,Sugarcane juice,Beverages,$25.00 ,13,$325.00 ,Unknown,Morning
+993,7/17/2022,Frankie,Fastfood,$50.00 ,3,$150.00 ,Online,Night
+513,7/16/2022,Cold coffee,Beverages,$40.00 ,5,$200.00 ,Cash,Night
+741,7/16/2022,Aalopuri,Fastfood,$20.00 ,5,$100.00 ,Online,Afternoon
+860,7/16/2022,Cold coffee,Beverages,$40.00 ,5,$200.00 ,Cash,Night
+616,7/15/2022,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Online,Midnight
+872,7/14/2022,Sandwich,Fastfood,$60.00 ,12,$720.00 ,Cash,Afternoon
+892,7/14/2022,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Online,Evening
+893,7/13/2022,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Cash,Afternoon
+12,7/12/2022,Vadapav,Fastfood,$20.00 ,8,$160.00 ,Online,Night
+920,7/12/2022,Frankie,Fastfood,$50.00 ,13,$650.00 ,Online,Evening
+492,7/11/2022,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Cash,Afternoon
+651,7/11/2022,Sandwich,Fastfood,$60.00 ,10,$600.00 ,Online,Midnight
+47,7/10/2022,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Unknown,Morning
+120,7/10/2022,Frankie,Fastfood,$50.00 ,2,$100.00 ,Cash,Evening
+151,7/10/2022,Frankie,Fastfood,$50.00 ,13,$650.00 ,Online,Morning
+183,7/10/2022,Sugarcane juice,Beverages,$25.00 ,5,$125.00 ,Cash,Midnight
+546,7/9/2022,Aalopuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Midnight
+784,7/9/2022,Vadapav,Fastfood,$20.00 ,8,$160.00 ,Cash,Morning
+351,7/8/2022,Frankie,Fastfood,$50.00 ,5,$250.00 ,Online,Night
+365,7/8/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Online,Night
+88,7/7/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Cash,Evening
+118,7/6/2022,Sandwich,Fastfood,$60.00 ,1,$60.00 ,Online,Midnight
+397,7/6/2022,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Online,Afternoon
+670,7/5/2022,Panipuri,Fastfood,$20.00 ,15,$300.00 ,Cash,Night
+526,7/4/2022,Sandwich,Fastfood,$60.00 ,10,$600.00 ,Cash,Evening
+725,7/4/2022,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Online,Afternoon
+763,7/4/2022,Vadapav,Fastfood,$20.00 ,14,$280.00 ,Unknown,Night
+843,7/4/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Cash,Morning
+1,7/3/2022,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Unknown,Night
+93,7/3/2022,Cold coffee,Beverages,$40.00 ,2,$80.00 ,Online,Midnight
+369,7/3/2022,Sandwich,Fastfood,$60.00 ,2,$120.00 ,Online,Evening
+36,7/2/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Online,Afternoon
+182,7/2/2022,Cold coffee,Beverages,$40.00 ,1,$40.00 ,Cash,Midnight
+283,7/2/2022,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Cash,Midnight
+303,7/2/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Cash,Midnight
+393,7/2/2022,Sugarcane juice,Beverages,$25.00 ,10,$250.00 ,Online,Evening
+517,7/2/2022,Panipuri,Fastfood,$20.00 ,13,$260.00 ,Online,Evening
+59,7/1/2022,Vadapav,Fastfood,$20.00 ,5,$100.00 ,Cash,Morning
+528,7/1/2022,Sugarcane juice,Beverages,$25.00 ,7,$175.00 ,Cash,Midnight
+580,7/1/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Online,Night
+631,7/1/2022,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Cash,Evening
+845,7/1/2022,Cold coffee,Beverages,$40.00 ,6,$240.00 ,Online,Evening
+201,6/30/2022,Panipuri,Fastfood,$20.00 ,8,$160.00 ,Cash,Morning
+319,6/30/2022,Frankie,Fastfood,$50.00 ,15,$750.00 ,Cash,Afternoon
+361,6/30/2022,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Unknown,Night
+557,6/30/2022,Sandwich,Fastfood,$60.00 ,2,$120.00 ,Cash,Evening
+578,6/30/2022,Frankie,Fastfood,$50.00 ,5,$250.00 ,Online,Night
+655,6/30/2022,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Online,Morning
+943,6/30/2022,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Cash,Night
+967,6/29/2022,Cold coffee,Beverages,$40.00 ,14,$560.00 ,Cash,Afternoon
+285,6/28/2022,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Unknown,Night
+617,6/28/2022,Sugarcane juice,Beverages,$25.00 ,2,$50.00 ,Cash,Night
+730,6/28/2022,Frankie,Fastfood,$50.00 ,13,$650.00 ,Cash,Afternoon
+300,6/27/2022,Aalopuri,Fastfood,$20.00 ,8,$160.00 ,Cash,Afternoon
+724,6/27/2022,Frankie,Fastfood,$50.00 ,10,$500.00 ,Cash,Night
+236,6/26/2022,Vadapav,Fastfood,$20.00 ,12,$240.00 ,Unknown,Evening
+753,6/26/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Cash,Midnight
+869,6/26/2022,Panipuri,Fastfood,$20.00 ,9,$180.00 ,Online,Midnight
+931,6/26/2022,Aalopuri,Fastfood,$20.00 ,15,$300.00 ,Cash,Afternoon
+196,6/25/2022,Sandwich,Fastfood,$60.00 ,3,$180.00 ,Cash,Evening
+611,6/25/2022,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Online,Morning
+744,6/25/2022,Frankie,Fastfood,$50.00 ,10,$500.00 ,Cash,Morning
+796,6/25/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Online,Night
+880,6/25/2022,Sugarcane juice,Beverages,$25.00 ,5,$125.00 ,Cash,Morning
+347,6/24/2022,Frankie,Fastfood,$50.00 ,7,$350.00 ,Cash,Afternoon
+399,6/24/2022,Panipuri,Fastfood,$20.00 ,9,$180.00 ,Cash,Evening
+627,6/22/2022,Sugarcane juice,Beverages,$25.00 ,15,$375.00 ,Online,Afternoon
+937,6/22/2022,Panipuri,Fastfood,$20.00 ,4,$80.00 ,Cash,Night
+169,6/20/2022,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Cash,Morning
+438,6/20/2022,Cold coffee,Beverages,$40.00 ,5,$200.00 ,Online,Morning
+980,6/20/2022,Vadapav,Fastfood,$20.00 ,9,$180.00 ,Online,Morning
+263,6/19/2022,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Cash,Evening
+278,6/19/2022,Frankie,Fastfood,$50.00 ,6,$300.00 ,Online,Night
+766,6/19/2022,Sandwich,Fastfood,$60.00 ,10,$600.00 ,Online,Morning
+253,6/18/2022,Sugarcane juice,Beverages,$25.00 ,13,$325.00 ,Online,Afternoon
+390,6/18/2022,Sugarcane juice,Beverages,$25.00 ,5,$125.00 ,Unknown,Midnight
+995,6/18/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Online,Night
+625,6/17/2022,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Online,Morning
+822,6/17/2022,Panipuri,Fastfood,$20.00 ,12,$240.00 ,Online,Morning
+328,6/16/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Online,Evening
+498,6/16/2022,Frankie,Fastfood,$50.00 ,1,$50.00 ,Cash,Midnight
+588,6/16/2022,Frankie,Fastfood,$50.00 ,11,$550.00 ,Cash,Morning
+141,6/15/2022,Aalopuri,Fastfood,$20.00 ,4,$80.00 ,Unknown,Evening
+765,6/15/2022,Sandwich,Fastfood,$60.00 ,13,$780.00 ,Cash,Night
+985,6/14/2022,Frankie,Fastfood,$50.00 ,1,$50.00 ,Cash,Afternoon
+561,6/13/2022,Panipuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Midnight
+732,6/13/2022,Panipuri,Fastfood,$20.00 ,7,$140.00 ,Unknown,Midnight
+807,6/13/2022,Frankie,Fastfood,$50.00 ,1,$50.00 ,Online,Midnight
+922,6/13/2022,Frankie,Fastfood,$50.00 ,5,$250.00 ,Online,Evening
+140,6/12/2022,Frankie,Fastfood,$50.00 ,13,$650.00 ,Cash,Night
+60,6/11/2022,Cold coffee,Beverages,$40.00 ,2,$80.00 ,Online,Night
+463,6/11/2022,Sandwich,Fastfood,$60.00 ,6,$360.00 ,Online,Midnight
+778,6/11/2022,Frankie,Fastfood,$50.00 ,13,$650.00 ,Cash,Evening
+9,6/10/2022,Panipuri,Fastfood,$20.00 ,1,$20.00 ,Cash,Morning
+613,6/10/2022,Vadapav,Fastfood,$20.00 ,5,$100.00 ,Online,Night
+876,6/10/2022,Cold coffee,Beverages,$40.00 ,8,$320.00 ,Online,Evening
+123,6/9/2022,Cold coffee,Beverages,$40.00 ,6,$240.00 ,Online,Evening
+181,6/9/2022,Cold coffee,Beverages,$40.00 ,7,$280.00 ,Cash,Night
+459,6/8/2022,Vadapav,Fastfood,$20.00 ,14,$280.00 ,Cash,Night
+769,6/7/2022,Frankie,Fastfood,$50.00 ,8,$400.00 ,Cash,Morning
+973,6/7/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Unknown,Morning
+241,6/6/2022,Sugarcane juice,Beverages,$25.00 ,2,$50.00 ,Cash,Afternoon
+739,6/6/2022,Aalopuri,Fastfood,$20.00 ,11,$220.00 ,Online,Night
+832,6/6/2022,Sugarcane juice,Beverages,$25.00 ,4,$100.00 ,Cash,Morning
+929,6/6/2022,Frankie,Fastfood,$50.00 ,9,$450.00 ,Online,Night
+538,6/5/2022,Panipuri,Fastfood,$20.00 ,7,$140.00 ,Online,Morning
+647,6/5/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Cash,Afternoon
+752,6/4/2022,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Online,Morning
+340,6/2/2022,Cold coffee,Beverages,$40.00 ,4,$160.00 ,Cash,Evening
+166,6/1/2022,Panipuri,Fastfood,$20.00 ,6,$120.00 ,Cash,Evening
+491,5/31/2022,Vadapav,Fastfood,$20.00 ,2,$40.00 ,Online,Midnight
+583,5/31/2022,Frankie,Fastfood,$50.00 ,8,$400.00 ,Cash,Night
+653,5/30/2022,Frankie,Fastfood,$50.00 ,10,$500.00 ,Online,Midnight
+923,5/30/2022,Cold coffee,Beverages,$40.00 ,3,$120.00 ,Online,Morning
+87,5/29/2022,Aalopuri,Fastfood,$20.00 ,8,$160.00 ,Cash,Night
+1000,5/29/2022,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Online,Midnight
+304,5/28/2022,Vadapav,Fastfood,$20.00 ,15,$300.00 ,Online,Morning
+370,5/28/2022,Panipuri,Fastfood,$20.00 ,5,$100.00 ,Unknown,Midnight
+433,5/27/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Online,Evening
+487,5/27/2022,Sandwich,Fastfood,$60.00 ,9,$540.00 ,Cash,Midnight
+540,5/27/2022,Vadapav,Fastfood,$20.00 ,13,$260.00 ,Cash,Afternoon
+630,5/27/2022,Frankie,Fastfood,$50.00 ,7,$350.00 ,Unknown,Morning
+648,5/27/2022,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Cash,Night
+781,5/27/2022,Aalopuri,Fastfood,$20.00 ,10,$200.00 ,Online,Midnight
+23,5/26/2022,Sandwich,Fastfood,$60.00 ,3,$180.00 ,Online,Midnight
+43,5/26/2022,Vadapav,Fastfood,$20.00 ,1,$20.00 ,Cash,Night
+356,5/26/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Cash,Night
+352,5/25/2022,Frankie,Fastfood,$50.00 ,11,$550.00 ,Cash,Night
+834,5/25/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Cash,Evening
+842,5/25/2022,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Cash,Evening
+881,5/25/2022,Sandwich,Fastfood,$60.00 ,2,$120.00 ,Cash,Midnight
+80,5/24/2022,Frankie,Fastfood,$50.00 ,13,$650.00 ,Cash,Evening
+633,5/24/2022,Cold coffee,Beverages,$40.00 ,3,$120.00 ,Online,Evening
+678,5/23/2022,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Online,Evening
+806,5/23/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Online,Evening
+35,5/22/2022,Vadapav,Fastfood,$20.00 ,8,$160.00 ,Cash,Morning
+586,5/22/2022,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Online,Night
+798,5/22/2022,Frankie,Fastfood,$50.00 ,12,$600.00 ,Unknown,Night
+958,5/22/2022,Sandwich,Fastfood,$60.00 ,11,$660.00 ,Online,Night
+427,5/21/2022,Sandwich,Fastfood,$60.00 ,2,$120.00 ,Online,Afternoon
+652,5/21/2022,Cold coffee,Beverages,$40.00 ,13,$520.00 ,Online,Afternoon
+817,5/21/2022,Aalopuri,Fastfood,$20.00 ,12,$240.00 ,Cash,Evening
+979,5/21/2022,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Midnight
+191,5/20/2022,Sugarcane juice,Beverages,$25.00 ,14,$350.00 ,Cash,Morning
+377,5/20/2022,Sugarcane juice,Beverages,$25.00 ,3,$75.00 ,Online,Evening
+450,5/20/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Online,Morning
+685,5/20/2022,Aalopuri,Fastfood,$20.00 ,3,$60.00 ,Cash,Afternoon
+677,5/19/2022,Cold coffee,Beverages,$40.00 ,3,$120.00 ,Online,Morning
+837,5/19/2022,Aalopuri,Fastfood,$20.00 ,7,$140.00 ,Cash,Midnight
+353,5/18/2022,Vadapav,Fastfood,$20.00 ,4,$80.00 ,Online,Midnight
+962,5/18/2022,Frankie,Fastfood,$50.00 ,13,$650.00 ,Online,Afternoon
+147,5/17/2022,Panipuri,Fastfood,$20.00 ,7,$140.00 ,Online,Evening
+51,5/16/2022,Frankie,Fastfood,$50.00 ,15,$750.00 ,Online,Morning
+158,5/16/2022,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Unknown,Midnight
+282,5/16/2022,Vadapav,Fastfood,$20.00 ,13,$260.00 ,Unknown,Morning
+534,5/16/2022,Vadapav,Fastfood,$20.00 ,2,$40.00 ,Online,Night
+67,5/15/2022,Aalopuri,Fastfood,$20.00 ,9,$180.00 ,Cash,Midnight
+469,5/15/2022,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Online,Morning
+529,5/15/2022,Aalopuri,Fastfood,$20.00 ,12,$240.00 ,Unknown,Afternoon
+917,5/15/2022,Vadapav,Fastfood,$20.00 ,15,$300.00 ,Online,Evening
+945,5/15/2022,Cold coffee,Beverages,$40.00 ,2,$80.00 ,Online,Afternoon
+39,5/14/2022,Vadapav,Fastfood,$20.00 ,2,$40.00 ,Online,Evening
+547,5/14/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Online,Morning
+637,5/14/2022,Aalopuri,Fastfood,$20.00 ,7,$140.00 ,Cash,Midnight
+688,5/14/2022,Frankie,Fastfood,$50.00 ,5,$250.00 ,Online,Afternoon
+92,5/13/2022,Aalopuri,Fastfood,$20.00 ,15,$300.00 ,Cash,Afternoon
+220,5/13/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Cash,Afternoon
+344,5/13/2022,Cold coffee,Beverages,$40.00 ,14,$560.00 ,Cash,Night
+95,5/12/2022,Sugarcane juice,Beverages,$25.00 ,8,$200.00 ,Online,Night
+119,5/12/2022,Panipuri,Fastfood,$20.00 ,10,$200.00 ,Cash,Evening
+582,5/12/2022,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Cash,Morning
+944,5/12/2022,Aalopuri,Fastfood,$20.00 ,2,$40.00 ,Cash,Midnight
+668,5/11/2022,Aalopuri,Fastfood,$20.00 ,4,$80.00 ,Online,Morning
+720,5/10/2022,Frankie,Fastfood,$50.00 ,14,$700.00 ,Cash,Morning
+42,5/9/2022,Aalopuri,Fastfood,$20.00 ,8,$160.00 ,Online,Night
+70,5/9/2022,Cold coffee,Beverages,$40.00 ,14,$560.00 ,Unknown,Morning
+345,5/9/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Online,Night
+363,5/9/2022,Frankie,Fastfood,$50.00 ,9,$450.00 ,Online,Afternoon
+642,5/9/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Online,Morning
+719,5/9/2022,Vadapav,Fastfood,$20.00 ,15,$300.00 ,Cash,Midnight
+873,5/9/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Online,Night
+874,5/9/2022,Cold coffee,Beverages,$40.00 ,4,$160.00 ,Cash,Midnight
+100,5/8/2022,Panipuri,Fastfood,$20.00 ,11,$220.00 ,Unknown,Morning
+373,5/8/2022,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Cash,Midnight
+435,5/8/2022,Sandwich,Fastfood,$60.00 ,1,$60.00 ,Cash,Afternoon
+610,5/8/2022,Frankie,Fastfood,$50.00 ,13,$650.00 ,Online,Evening
+805,5/8/2022,Sugarcane juice,Beverages,$25.00 ,1,$25.00 ,Online,Afternoon
+839,5/8/2022,Sugarcane juice,Beverages,$25.00 ,4,$100.00 ,Cash,Afternoon
+46,5/7/2022,Vadapav,Fastfood,$20.00 ,7,$140.00 ,Cash,Evening
+55,5/7/2022,Sandwich,Fastfood,$60.00 ,10,$600.00 ,Cash,Night
+162,5/7/2022,Aalopuri,Fastfood,$20.00 ,11,$220.00 ,Cash,Midnight
+964,5/7/2022,Cold coffee,Beverages,$40.00 ,8,$320.00 ,Cash,Evening
+32,5/6/2022,Aalopuri,Fastfood,$20.00 ,4,$80.00 ,Unknown,Morning
+338,5/6/2022,Sugarcane juice,Beverages,$25.00 ,12,$300.00 ,Cash,Morning
+383,5/6/2022,Aalopuri,Fastfood,$20.00 ,7,$140.00 ,Online,Morning
+665,5/6/2022,Aalopuri,Fastfood,$20.00 ,14,$280.00 ,Online,Evening
+212,5/5/2022,Cold coffee,Beverages,$40.00 ,12,$480.00 ,Online,Morning
+322,5/5/2022,Cold coffee,Beverages,$40.00 ,11,$440.00 ,Cash,Morning
+697,5/5/2022,Sugarcane juice,Beverages,$25.00 ,5,$125.00 ,Cash,Midnight
+852,5/5/2022,Sugarcane juice,Beverages,$25.00 ,8,$200.00 ,Online,Night
+525,5/4/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Cash,Midnight
+676,5/4/2022,Frankie,Fastfood,$50.00 ,7,$350.00 ,Cash,Evening
+844,5/4/2022,Sugarcane juice,Beverages,$25.00 ,13,$325.00 ,Cash,Morning
+856,5/4/2022,Aalopuri,Fastfood,$20.00 ,11,$220.00 ,Cash,Night
+7,5/3/2022,Sugarcane juice,Beverages,$25.00 ,9,$225.00 ,Cash,Evening
+271,5/3/2022,Vadapav,Fastfood,$20.00 ,13,$260.00 ,Cash,Evening
+290,5/3/2022,Panipuri,Fastfood,$20.00 ,7,$140.00 ,Cash,Morning
+326,5/3/2022,Sandwich,Fastfood,$60.00 ,8,$480.00 ,Cash,Evening
+628,5/2/2022,Cold coffee,Beverages,$40.00 ,10,$400.00 ,Unknown,Night
+524,5/1/2022,Aalopuri,Fastfood,$20.00 ,13,$260.00 ,Online,Afternoon
+255,4/30/2022,Vadapav,Fastfood,$20.00 ,7,$140.00 ,Unknown,Afternoon
+297,4/30/2022,Sandwich,Fastfood,$60.00 ,10,$600.00 ,Online,Evening
+956,4/30/2022,Frankie,Fastfood,$50.00 ,13,$650.00 ,Online,Morning
+986,4/30/2022,Sugarcane juice,Beverages,$25.00 ,13,$325.00 ,Online,Night
+783,4/29/2022,Aalopuri,Fastfood,$20.00 ,8,$160.00 ,Cash,Morning
+801,4/28/2022,Aalopuri,Fastfood,$20.00 ,7,$140.00 ,Cash,Evening
+483,4/27/2022,Panipuri,Fastfood,$20.00 ,9,$180.00 ,Cash,Morning
+579,4/27/2022,Panipuri,Fastfood,$20.00 ,2,$40.00 ,Cash,Evening
+190,4/26/2022,Cold coffee,Beverages,$40.00 ,1,$40.00 ,Online,Evening
+238,4/26/2022,Vadapav,Fastfood,$20.00 ,13,$260.00 ,Cash,Morning
+596,4/26/2022,Cold coffee,Beverages,$40.00 ,1,$40.00 ,Online,Night
+636,4/26/2022,Cold coffee,Beverages,$40.00 ,12,$480.00 ,Unknown,Morning
+310,4/25/2022,Vadapav,Fastfood,$20.00 ,4,$80.00 ,Cash,Afternoon
+385,4/25/2022,Vadapav,Fastfood,$20.00 ,5,$100.00 ,Cash,Morning
+122,4/24/2022,Panipuri,Fastfood,$20.00 ,3,$60.00 ,Unknown,Night
+378,4/24/2022,Vadapav,Fastfood,$20.00 ,2,$40.00 ,Cash,Midnight
+462,4/24/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Cash,Morning
+195,4/23/2022,Sandwich,Fastfood,$60.00 ,4,$240.00 ,Cash,Night
+232,4/23/2022,Vadapav,Fastfood,$20.00 ,13,$260.00 ,Cash,Night
+581,4/23/2022,Sugarcane juice,Beverages,$25.00 ,13,$325.00 ,Cash,Afternoon
+882,4/23/2022,Panipuri,Fastfood,$20.00 ,9,$180.00 ,Online,Morning
+694,4/22/2022,Panipuri,Fastfood,$20.00 ,14,$280.00 ,Cash,Midnight
+293,4/21/2022,Panipuri,Fastfood,$20.00 ,8,$160.00 ,Online,Morning
+391,4/21/2022,Aalopuri,Fastfood,$20.00 ,1,$20.00 ,Online,Night
+424,4/21/2022,Sugarcane juice,Beverages,$25.00 ,9,$225.00 ,Online,Midnight
+680,4/20/2022,Cold coffee,Beverages,$40.00 ,4,$160.00 ,Cash,Night
+815,4/20/2022,Cold coffee,Beverages,$40.00 ,12,$480.00 ,Online,Afternoon
+846,4/20/2022,Aalopuri,Fastfood,$20.00 ,5,$100.00 ,Online,Afternoon
+168,4/19/2022,Sandwich,Fastfood,$60.00 ,4,$240.00 ,Cash,Midnight
+313,4/19/2022,Cold coffee,Beverages,$40.00 ,1,$40.00 ,Cash,Midnight
+211,4/18/2022,Aalopuri,Fastfood,$20.00 ,12,$240.00 ,Cash,Morning
+248,4/17/2022,Frankie,Fastfood,$50.00 ,5,$250.00 ,Online,Midnight
+675,4/17/2022,Sandwich,Fastfood,$60.00 ,12,$720.00 ,Cash,Night
+976,4/17/2022,Sugarcane juice,Beverages,$25.00 ,11,$275.00 ,Unknown,Morning
+230,4/16/2022,Frankie,Fastfood,$50.00 ,6,$300.00 ,Online,Afternoon
+231,4/16/2022,Sugarcane juice,Beverages,$25.00 ,3,$75.00 ,Unknown,Night
+555,4/16/2022,Sandwich,Fastfood,$60.00 ,6,$360.00 ,Cash,Evening
+549,4/15/2022,Sugarcane juice,Beverages,$25.00 ,3,$75.00 ,Online,Afternoon
+16,4/14/2022,Sandwich,Fastfood,$60.00 ,11,$660.00 ,Unknown,Midnight
+715,4/12/2022,Sandwich,Fastfood,$60.00 ,1,$60.00 ,Online,Morning
+889,4/12/2022,Vadapav,Fastfood,$20.00 ,10,$200.00 ,Online,Midnight
+203,4/11/2022,Vadapav,Fastfood,$20.00 ,6,$120.00 ,Online,Midnight
+125,4/10/2022,Vadapav,Fastfood,$20.00 ,7,$140.00 ,Cash,Midnight
+543,4/10/2022,Aalopuri,Fastfood,$20.00 ,15,$300.00 ,Cash,Evening
+925,4/10/2022,Frankie,Fastfood,$50.00 ,4,$200.00 ,Online,Afternoon
+587,4/9/2022,Aalopuri,Fastfood,$20.00 ,10,$200.00 ,Cash,Night
+606,4/9/2022,Cold coffee,Beverages,$40.00 ,6,$240.00 ,Cash,Night
+762,4/9/2022,Vadapav,Fastfood,$20.00 ,12,$240.00 ,Online,Midnight
+911,4/9/2022,Sandwich,Fastfood,$60.00 ,1,$60.00 ,Cash,Evening
+126,4/8/2022,Panipuri,Fastfood,$20.00 ,11,$220.00 ,Online,Night
+500,4/8/2022,Vadapav,Fastfood,$20.00 ,4,$80.00 ,Online,Midnight
+618,4/8/2022,Frankie,Fastfood,$50.00 ,1,$50.00 ,Online,Evening
+650,4/7/2022,Sandwich,Fastfood,$60.00 ,13,$780.00 ,Online,Morning
+791,4/7/2022,Vadapav,Fastfood,$20.00 ,3,$60.00 ,Unknown,Midnight
+928,4/7/2022,Sandwich,Fastfood,$60.00 ,11,$660.00 ,Online,Evening
+66,4/5/2022,Frankie,Fastfood,$50.00 ,2,$100.00 ,Cash,Morning
+334,4/4/2022,Cold coffee,Beverages,$40.00 ,4,$160.00 ,Cash,Evening
+510,4/4/2022,Sandwich,Fastfood,$60.00 ,14,$840.00 ,Online,Afternoon
+605,4/4/2022,Cold coffee,Beverages,$40.00 ,15,$600.00 ,Unknown,Afternoon
+906,4/4/2022,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Cash,Afternoon
+394,4/3/2022,Sandwich,Fastfood,$60.00 ,1,$60.00 ,Cash,Morning
+413,4/3/2022,Aalopuri,Fastfood,$20.00 ,10,$200.00 ,Online,Midnight
+520,4/3/2022,Panipuri,Fastfood,$20.00 ,11,$220.00 ,Online,Night
+572,4/2/2022,Sandwich,Fastfood,$60.00 ,15,$900.00 ,Cash,Afternoon
+623,4/2/2022,Cold coffee,Beverages,$40.00 ,15,$600.00 ,Cash,Midnight
+691,4/1/2022,Sandwich,Fastfood,$60.00 ,7,$420.00 ,Cash,Evening
